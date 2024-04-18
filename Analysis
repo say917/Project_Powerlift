@@ -1,0 +1,15 @@
+Project Powerlift Final Analysis:
+
+Powerlifting is the sport of lifting heavy weights in three different ways from a standing or lying position, but without lifting the weights above the head.
+It is comprised of three lifts: the squat, the bench press and deadlift. In this project, our goal is to obtain a large database, and clean the data to find relationships.
+In doing so, we are seeking to answer the following questions: 
+- Does age have a correlation with performance in powerlifting competitions? Our initial thoughts would be that younger athletes would have a higher likeliness of succeeding in 
+competition, but the data may suggest otherwise. Is it possible that adults in their 30s and 40s could begin taking training more serously, and getting ready
+for competitions more effectively? Is there a prime age? and could this prime age be different between genders?
+- This leads to our next question of a relationship between genders in powerlifting competitions. In this project, we are looking to answer questions about how each gender performs across
+different age and weight ranges. One question we had early was related to the disparities in participation of certain weight classes between both genders, and whether this may impact the
+results when looking for correlation. Also, are there similar results between men and women of similar weight? and does this change at different age ranges?
+- Lastly, we want to understand the relationship of bodyweight with powerlifting. On the surface we would hypothesize that bigger lifters would be able to lift more weight, but does this
+theory hold truth when we look at the data? It's worth asking, does bodyweight correlate to overall strength, and if so, at which weight range does that advantage start to taper?
+Does having more weight carry the same effectiveness across both gender? and at all age ranges? Cleaning the data to show relationships of weight over different ages and amognst both 
+genders competing could show contrary results.
